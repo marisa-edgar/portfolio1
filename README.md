@@ -27,6 +27,6 @@ _Landing page for my portfolio, includes about me, background, and top 5 fruits_
 * _Questions, issues or concerns Email marisaedgar1212@gmail.com
 
 ## License
-* _MIT
+
 * _License under[MIT License](License).
-Copyright(c)_202_ _Marisa Edgar_
+* _Copyright(c)_202_ _Marisa Edgar_
