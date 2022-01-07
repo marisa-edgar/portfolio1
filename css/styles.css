@@ -1,9 +1,16 @@
 .column {
-  width: 32%;
+  width: 30%;
   height: 190px;
   float: left;
-  margin: 7px;
+  margin: 10px;
   text-align: justify;
+  border: 2px solid;
+  background-color: rgb(75, 124, 75);
+  height: 500px;
+  padding: 40px;
+  text-align: center;
+  background-color: transparent;
+
 }
 .jumbotron {
   background: #d4caca;
@@ -20,4 +27,9 @@ img {
   border: solid;
   position: relative;
   top: -100px;
+}
+body {
+  background-image: url("/img/teaparty.JPG");
+  background-attachment: static;
+  background-size: cover;
 }
