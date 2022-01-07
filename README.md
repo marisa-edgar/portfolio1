@@ -28,5 +28,5 @@ _Landing page for my portfolio, includes about me, background, and top 5 fruits_
 
 ## License
 
-* _[MIT License](License).
+* _[MIT](License).
 * _Copyright(c)_202_ _Marisa Edgar_
