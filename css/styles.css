@@ -1,0 +1,15 @@
+.column {
+  width: 32%;
+  height: 190px;
+  float: left;
+  margin: 7px;
+  text-align: justify;
+}
+.jumbotron {
+  background: #d4caca;
+  border: solid #4c5c68;
+  border-width: 3px;
+}
+.head {
+  text-align: center;
+}
