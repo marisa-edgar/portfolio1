@@ -18,7 +18,7 @@ _Landing page for my portfolio, includes about me, background, and top 5 fruits_
 * _Open in VS code_
 * _Open HTML in browser_
 
-## 
+## https://github.com/marisa-edgar/portfolio1.git
 
 ## Known bugs
 * _No known bugs_
